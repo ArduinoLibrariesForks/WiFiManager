@@ -8,7 +8,7 @@
     "subcategory": "Networking",
     "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
     "version": "0.14",
-    "family": "esp6288",
+    "family": "esp8288",
     "core": "esp8266",
     "install": {
         "examples": "/",
