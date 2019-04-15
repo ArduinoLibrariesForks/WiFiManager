@@ -1,0 +1,22 @@
+{
+    "name": "WiFiManager",
+    "provides": "WiFiManager.h",
+    "license": "LICENSE",
+    "readme": "README.md",
+    "description": "ESP8266 WiFi Connection manager with web captive portal",
+    "category": "Communications",
+    "subcategory": "Networking",
+    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
+    "version": "0.14",
+    "family": "esp6288",
+    "core": "esp8266",
+    "install": {
+        "examples": "/",
+        "extras": "/",
+        "keywords.txt": "/",
+        "LICENSE": "/",
+        "README.md": "/",
+        "WiFiManager.cpp": "/",
+        "WiFiManager.h": "/"
+    }
+}
